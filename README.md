@@ -75,7 +75,7 @@ Some resources are shared below.
   - [Queues](https://medium.com/system-designing-interviews/system-design-chapter-7-queues-5f3f9bed81)
   
 - Example System Design Questions
-  -[What are the best practices for building something like a news feed?](https://www.quora.com/What-are-the-best-practices-for-building-something-like-a-news-feed)
+  - [What are the best practices for building something like a news feed?](https://www.quora.com/What-are-the-best-practices-for-building-something-like-a-news-feed)
 
 - Tips to System Design Interview
   - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
