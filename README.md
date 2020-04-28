@@ -65,6 +65,9 @@ Some resources are shared below.
   - [Representational State Transfer (REST) Architecture Style](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
   - [HTTP interactions must be stateless - explained](https://ruben.verborgh.org/blog/2012/08/24/rest-wheres-my-state/)
 
+- Distributed Systems
+  - [Distributed File System](https://www.youtube.com/watch?v=LcuT0ynb_ks)
+  - [Map Reduce - - Distributed data processing](https://www.youtube.com/watch?v=MAJ0aW5g17c)
 - Medium Articles
   - [Approach a System Design Interview](https://medium.com/system-designing-interviews/approach-a-system-design-interview-f3594e243730)
   - [Sharding](https://medium.com/system-designing-interviews/system-design-chapter-2-sharding-484960c18f6)
@@ -73,6 +76,8 @@ Some resources are shared below.
   - [Indexes in Databases](https://medium.com/@nishantnitb/system-design-chapter-5-indexes-in-databases-beb90295dbcf)
   - [Proxies](https://medium.com/system-designing-interviews/system-design-chapter-6-proxies-f77be8858023)
   - [Queues](https://medium.com/system-designing-interviews/system-design-chapter-7-queues-5f3f9bed81)
+  
+
   
 - Example System Design Questions
   - [What are the best practices for building something like a news feed?](https://www.quora.com/What-are-the-best-practices-for-building-something-like-a-news-feed)
