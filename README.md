@@ -65,9 +65,15 @@ Some resources are shared below.
   - [Representational State Transfer (REST) Architecture Style](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
   - [HTTP interactions must be stateless - explained](https://ruben.verborgh.org/blog/2012/08/24/rest-wheres-my-state/)
 
+- Microservices Architecture 
+ - [Introduction to Microservices](https://www.youtube.com/watch?v=qYhRvH9tJKw)
+ - [How to Design Microservices Architecture? Uber Architecture - A Case Study](https://www.youtube.com/watch?v=Zed6udTPGro)
+ - [Do you have too many microservices?](http://highscalability.com/blog/2018/4/5/do-you-have-too-many-microservices-five-design-attributes-th.html)
+ 
 - Distributed Systems
   - [Distributed File System](https://www.youtube.com/watch?v=LcuT0ynb_ks)
   - [Map Reduce - - Distributed data processing](https://www.youtube.com/watch?v=MAJ0aW5g17c)
+  
 - Medium Articles
   - [Approach a System Design Interview](https://medium.com/system-designing-interviews/approach-a-system-design-interview-f3594e243730)
   - [Sharding](https://medium.com/system-designing-interviews/system-design-chapter-2-sharding-484960c18f6)
@@ -81,6 +87,7 @@ Some resources are shared below.
   
 - Example System Design Questions
   - [What are the best practices for building something like a news feed?](https://www.quora.com/What-are-the-best-practices-for-building-something-like-a-news-feed)
+  - [Tinder as a microservice architecture](https://www.youtube.com/watch?v=tndzLznxq40)
 
 - Tips to System Design Interview
   - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
