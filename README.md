@@ -27,6 +27,7 @@ Some resources are shared below.
 - System Design Introduction 
 	- [how to approach a design question](https://www.hiredintech.com/system-design)
 	- [Key Characteristics of a Distributed System](https://github.com/lei-hsia/grokking-system-design/blob/master/basics/key-characteristics.md)
+	- [CAP theoram](https://www.youtube.com/watch?v=k-Yaq8AHlFA)
 
 - Importance of Scalibility 
   - [Issues while scaling web applications](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)
@@ -88,6 +89,7 @@ Some resources are shared below.
 - Example System Design Questions
   - [What are the best practices for building something like a news feed?](https://www.quora.com/What-are-the-best-practices-for-building-something-like-a-news-feed)
   - [Tinder as a microservice architecture](https://www.youtube.com/watch?v=tndzLznxq40)
+  - [Mock System Desugn Interview - design a code deployment system](https://www.youtube.com/watch?v=q0KGYwNbf-0)
 
 - Tips to System Design Interview
   - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
