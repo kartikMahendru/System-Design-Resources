@@ -68,10 +68,10 @@ Some resources are shared below.
   - [Representational State Transfer (REST) Architecture Style](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
   - [HTTP interactions must be stateless - explained](https://ruben.verborgh.org/blog/2012/08/24/rest-wheres-my-state/)
 
-- Microservices Architecture 
- - [Introduction to Microservices](https://www.youtube.com/watch?v=qYhRvH9tJKw)
- - [How to Design Microservices Architecture? Uber Architecture - A Case Study](https://www.youtube.com/watch?v=Zed6udTPGro)
- - [Do you have too many microservices?](http://highscalability.com/blog/2018/4/5/do-you-have-too-many-microservices-five-design-attributes-th.html)
+- Microservices Architecture
+   - [Introduction to Microservices](https://www.youtube.com/watch?v=qYhRvH9tJKw)
+   - [How to Design Microservices Architecture? Uber Architecture - A Case Study](https://www.youtube.com/watch?v=Zed6udTPGro)
+   - [Do you have too many microservices?](http://highscalability.com/blog/2018/4/5/do-you-have-too-many-microservices-five-design-attributes-th.html)
  
 - Distributed Systems
   - [Distributed File System](https://www.youtube.com/watch?v=LcuT0ynb_ks)
