@@ -24,6 +24,8 @@ Some resources are shared below.
 
 ## Resources
 
+- Pdf of full course
+  - The pdf guide to all the topics of system design along with sample system design examples is given [here](/System+Design.pdf)
 - System Design Introduction 
 	- [how to approach a design question](https://www.hiredintech.com/system-design)
 	- [Key Characteristics of a Distributed System](https://github.com/lei-hsia/grokking-system-design/blob/master/basics/key-characteristics.md)
