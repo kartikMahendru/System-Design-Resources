@@ -76,6 +76,7 @@ Some resources are shared below.
 - Distributed Systems
   - [Distributed File System](https://www.youtube.com/watch?v=LcuT0ynb_ks)
   - [Map Reduce - - Distributed data processing](https://www.youtube.com/watch?v=MAJ0aW5g17c)
+  - [Distributed Systems Architectural Patterns](https://youtu.be/tpspO9K28PM)
   
 - Medium Articles
   - [Approach a System Design Interview](https://medium.com/system-designing-interviews/approach-a-system-design-interview-f3594e243730)
